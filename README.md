@@ -9,4 +9,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
