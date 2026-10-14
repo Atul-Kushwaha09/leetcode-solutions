@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0001-two-sum) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0001-two-sum) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +25,12 @@
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
