@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0015-3sum) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
