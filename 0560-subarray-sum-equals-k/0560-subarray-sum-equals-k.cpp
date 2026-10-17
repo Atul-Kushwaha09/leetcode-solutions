@@ -10,7 +10,6 @@ public:
                   if(subsum==k) count++;    
             }
         }
-
-        return count;
+       return count;     
     }
 };
