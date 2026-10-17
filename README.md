@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0560-subarray-sum-equals-k](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0176-second-highest-salary) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
