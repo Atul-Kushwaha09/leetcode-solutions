@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0134-gas-station) |
 | [0560-subarray-sum-equals-k](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -30,6 +31,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0134-gas-station) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
