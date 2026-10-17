@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -71,5 +73,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
