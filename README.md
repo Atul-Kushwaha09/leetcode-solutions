@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
