@@ -14,15 +14,15 @@ public:
 
         sort(sa.begin(),sa.end());
         sort(ta.begin(),ta.end());
-          bool ans=true;
+        //   bool ans=true;
         for(int i=0;i<sa.size();i++){
               if(sa[i] != ta[i]){
-                 ans=false;
-                 break;
+                 
+                 return false;
               }
         }
 
-        return ans;
+        return true;
     }
 
 };
