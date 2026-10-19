@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
