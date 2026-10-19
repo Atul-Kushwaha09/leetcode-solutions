@@ -14,6 +14,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3467-transform-array-by-parity](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [3467-transform-array-by-parity](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Atul-Kushwaha09/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
